@@ -1,0 +1,26 @@
+
+
+#home .ui-controlgroup {
+    width: 100%;
+    margin: 0 auto;
+}
+
+#home img {
+  width: 100%;
+  max-width: 375px;
+  display: block;
+  margin: 0 auto;
+}
+#home, #blog, #photos, #videos, #tweets, #videoList, #videoplayer, #iSorry{
+    background-color: #efefef;
+  /*background: url('../images/background_viewsource.png')*/
+}
+
+li.ui-li-has-thumb img {
+  margin: 10px;
+}
+
+iframe {
+  width: 100%;
+  min-height: 300px;
+}
